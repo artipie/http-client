@@ -65,7 +65,7 @@ SOFTWARE.
     <dependency>
       <groupId>com.artipie</groupId>
       <artifactId>asto</artifactId>
-      <version>0.26</version>
+      <version>0.28</version>
     </dependency>
     <!-- Test only dependencies -->
     <dependency>
